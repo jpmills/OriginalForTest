@@ -20,7 +20,7 @@ public class Nada
 	}
 
 	public void another() {
-		System.out.println("huh.");
+		System.out.println("huh...");
 	}
 
 }
