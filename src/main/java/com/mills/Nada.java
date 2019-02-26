@@ -29,11 +29,6 @@ public class Nada
 	}
 
 
-	public void another1() {
-		System.out.println("huh...");
-	}
-
-
 	public void another2() {
 		System.out.println("huh...");
 	}
