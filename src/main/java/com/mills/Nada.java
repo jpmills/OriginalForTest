@@ -15,4 +15,8 @@ public class Nada
         return message;
     }
 
+    public String dogMethod() {
+		return "71";
+	}
+
 }
