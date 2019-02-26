@@ -23,4 +23,24 @@ public class Nada
 		System.out.println("huh...");
 	}
 
+
+	public void another() {
+		System.out.println("huh...");
+	}
+
+
+	public void another1() {
+		System.out.println("huh...");
+	}
+
+
+	public void another2() {
+		System.out.println("huh...");
+	}
+
+
+	public void another3() {
+		System.out.println("huh...");
+	}
+
 }
