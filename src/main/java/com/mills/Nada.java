@@ -16,7 +16,11 @@ public class Nada
     }
 
     public String dogMethod() {
-		return "71";
+		return "71.225b";
+	}
+
+	public void another() {
+		System.out.println("huh...");
 	}
 
 }
